@@ -1,4 +1,4 @@
-## 👋 Hi! I'm @robertchenbao.
+## 👋 Hi! I'm Robert.
 
 * I study Computer Science at the [University of Virginia](https://virginia.edu). Previously, I interned at [AWS](https://aws.amazon.com) and [CallMiner](https://callminer.com).
 * I've done lots of full-stack work through research and internships. Currently, I'm building a Generative AI-based service at work (while maintaining another one I made at school).
