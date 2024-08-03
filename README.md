@@ -1,8 +1,8 @@
 ## 👋 Hi! I'm Robert.
 
 * I study Computer Science at the [University of Virginia](https://virginia.edu). Previously, I interned at [AWS](https://aws.amazon.com) and [CallMiner](https://callminer.com).
-* I've done lots of full-stack work through research and internships. Currently, I'm building a Generative AI-based service at work (while maintaining another one I made at school).
-* Outside of work, I enjoy listening to podcasts and watching movies. My all-time favorite movies are _Everything Everywhere All at Once_, _The Matrix_, _Soul_, and _Kiki's Delivery Service_. My current favorite podcast is _Acquired_.
+* I’ve done lots of full-stack work through past projects. This summer, I built a generative AI service during an internship (while maintaining another one I made at school).
+* Outside of work, I enjoy listening to podcasts and watching movies. My all-time favtorite movies are _Everything Everywhere All at Once_, _Soul_, and _Kiki's Delivery Service_. My current favorite podcast is _Freakonomics Radio_ and _Acquired_.
 
 I also like taking pictures! Here are some of the photos I took over the years.
 
